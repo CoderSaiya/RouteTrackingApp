@@ -98,9 +98,9 @@ This project is distributed under the MIT License. See `LICENSE` file for more i
 
 ## Contact
 
-- Email: support@example.com
-- Website: https://example.com
-- Issues: https://github.com/username/project/issues
+- Email: sonysam.contacts@gmail.com
+- Website: none
+- Issues: [https://github.com/username/project/issues](https://github.com/CoderSaiya/RouteTrackingApp/issues)
 
 ## Acknowledgments
 
